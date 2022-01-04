@@ -3,7 +3,7 @@
 For this exercise you will develop a module containing a Car class. Instances of the class will be able to turn and drive forward. They will have three attributes: x, y and heading. x and y will be the coordinates of the car object. For this assignment, x coordinates will increase as a car moves east; y coordinates will increase as a car moves south. Heading  indicates  the  direction  in  which  the  car  will  drive,  in  degrees.  For  this  assignment,  a heading of 0 indicates due north; a heading of 90 is due east; etc.
 
 ## Instructions
-** Car class **
+**Car class**
 
 Create a class called Car. Define the following methods:
 __init__() method
